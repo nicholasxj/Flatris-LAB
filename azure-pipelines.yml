@@ -15,10 +15,10 @@ variables:
   webAppName: 'uniqueWebApp-nj'
   
   # Resource group
-  resourceGroupName: 'YourRG'
+  resourceGroupName: 'testResource-nj'
  
   # Environment name
-  environmentName: 'YourLinuxApp'
+  environmentName: 'testEnvironment-nj'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
