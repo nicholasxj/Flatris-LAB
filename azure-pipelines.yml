@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'Free Trial'
+  azureSubscription: 'scGame-nj'
   
   # Web app name
   webAppName: 'uniqueWebApp-nj'
